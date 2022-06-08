@@ -1,1 +1,4 @@
-# lottery-ui
+# Lottery-UI
+/shiro
+
+./RavEthaners/lottery

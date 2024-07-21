@@ -1,4 +1,4 @@
 # Lottery-UI
-/shiro
+NOT FIXED YET,
 
-./RavEthaners/lottery
+Math.random();
